@@ -11,5 +11,7 @@ MacOs Ventura 13.0
 CPU：Intel i5-8350U
 
 GPU ：Intel UHD 620
+
 Wi-Fi：Intel Wireless-AC 8265
+
 SSD：256 Go
